@@ -1,0 +1,13 @@
+SN,Account_ID,Name,Address,Mobile,Arrear,Jeid,Assigned_lineman_id,Action_Taken,Action_Date
+1,10,Consumer1,Address1,909090908,10000,abc@gmail.com,lineman1@gmail.com,Disconnect,08-09-2022
+2,20,Consumer2,Address2,909090907,20000,abc@gmail.com,lineman1@gmail.com,,
+3,30,Consumer3,Address3,909090906,30000,abc@gmail.com,lineman1@gmail.com,,
+4,40,Consumer4,Address4,909090905,40000,abc@gmail.com,lineman1@gmail.com,,
+5,50,Consumer5,Address5,909090904,50000,abc@gmail.com,lineman2@gmail.com,,
+6,60,Consumer6,Address6,909090903,60000,abc@gmail.com,lineman1@gmail.com,,
+7,70,Consumer7,Address7,909090902,70000,abc@gmail.com,lineman1@gmail.com,,
+8,80,Consumer8,Address8,909090901,80000,abc@gmail.com,lineman2@gmail.com,,
+9,90,Consumer9,Address9,909090900,90000,abc@gmail.com,lineman1@gmail.com,,
+10,100,Consumer10,Address10,909090899,100000,abc@gmail.com,lineman1@gmail.com,,
+11,110,Consumer11,Address11,909090898,110000,abc@gmail.com,lineman1@gmail.com,,
+12,120,Consumer12,Address12,909090897,120000,abc@gmail.com,lineman1@gmail.com,,

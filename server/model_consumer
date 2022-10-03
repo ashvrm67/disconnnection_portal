@@ -1,0 +1,18 @@
+const mongoose= require('mongoose');
+const Consumer= mongoose.Schema({
+SN :{type:Number, require:true},
+Account_ID:{type:String, required:true, unique : true  },
+Name:{type:String, require:true},
+Address:{type:String, require:true},
+Mobile:{type:Number, require:true},
+Arrear:{type:Number, require:true},
+Jeid:{type:String, require:true},
+Assigned_lineman_id:{type:String, require:true},
+Action_Taken:{type:String, require:true},
+Action_Date:{type:String, require:true},
+
+});
+
+const consumer= new mongoose.model("consumer", Consumer);
+module.exports=consumer;
+
